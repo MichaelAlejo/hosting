@@ -1,4 +1,4 @@
-# Hosting
+# Webs de hosting gratuit.
 | Proveïdor  | Espai d'emmagatzematge | Ample de banda  | Dominis i Subdominis | Certificat SSL  | Publicitat | Altres Característiques | Enllaç |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
 | Pro Free host | Il·limitat | Il·limitat | Ofereix subdominis gratuïts i suport per a dominis personalitzats | Si | No te publicitat forçada | Te suport de suport PHP i MySQL | [Profreehost.com](https://profreehost.com/) |
